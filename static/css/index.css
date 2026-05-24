@@ -17,7 +17,7 @@ body {
   font-variant: small-caps;
 }
 
-.hero-color {
+.project-color {
   color:dodgerblue
 }
 
@@ -25,7 +25,7 @@ body {
   color:hsl(204, 86%, 53%)
 }
 
-.teaser .hero-body {
+.teaser .project-body {
   padding-top: 0;
   padding-bottom: 3rem;
 }
@@ -51,7 +51,7 @@ body {
   object-fit: fit;
 }
 
-.publication-header .hero-body {
+.publication-header .project-body {
 }
 
 .publication-title {
